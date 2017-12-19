@@ -8,32 +8,32 @@ CS4001
 
 ## Resources
 
-* [Blackboard](https://mymodule.tcd.ie/)
-* [Geoff's Notes]()
-* [Scarlett's Notes]()
-* [Cathal Ormond's Notes]()
+-   [Blackboard](https://mymodule.tcd.ie/)
+-   [Geoff's Notes](https://github.com/nating/trinity-cs-website/tree/master/assets/notes/fourth-year/fuzzy-logic)
+-   [Scarlett's Notes](https://gitlab.scss.tcd.ie/gourleys/FourthYear/tree/master/Fuzzy)
+-   [Cathal Ormond's Notes](https://www.maths.tcd.ie/~ormondca/notes/Fuzzy%20Logic%20Notes.pdf)
 
 ## Questions by Year
 
-* [2016]()
-* [2015]()
-* [2014]()
-* [2013]()
-* [2012]()
-* [2011]()
-* [2010]()
-* [2009]()
-* [2008]()
-* [2007]()
+-   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS4001-1.PDF)
+-   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS4001-1.PDF)
+-   [2015](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/CS/CS4001-1.PDF)
+-   [2014](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2014/CS/CS40011.pdf)
+-   [2013](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2013/CS/CS40011.pdf)
+-   [2012](https://www.tcd.ie/Local/Exam_Papers/2012/XC/XCS40011.pdf)
+-   [2011](https://www.tcd.ie/Local/Exam_Papers/2011/XC/XCS40011.pdf)
+-   [2010](https://www.tcd.ie/Local/Exam_Papers/2010/XC/XCS40011.pdf)
+-   [2009](https://www.tcd.ie/Local/Exam_Papers/2009/XC/XCS4B131.pdf)
+-   [2008](https://www.tcd.ie/Local/Exam_Papers/2008/XC/XCS4B131.pdf)
+-   [2007](https://www.tcd.ie/Local/Exam_Papers/2007/XC/XCS4B131.pdf)
 
 ## Model Answers
 
-* [2012]()
-* [2011]()
-* [2010]()
-* [2009]()
-* [2008]()
-* [2007]()
+-   [2012](https://www.scss.tcd.ie/Khurshid.Ahmad/Teaching/Lectures_on_Fuzzy_Logic/2011_2012_CS_Paper_Model_Solutions.pdf)
+-   [2011](https://www.scss.tcd.ie/Khurshid.Ahmad/Teaching/Lectures_on_Fuzzy_Logic/Model_Answers.pdf)
+-   [2010](https://www.scss.tcd.ie/Khurshid.Ahmad/Teaching/Lectures_on_Fuzzy_Logic/2009_2010_CS4001_Paper_Model_Solutions.pdf)
+-   [2009](https://www.scss.tcd.ie/Khurshid.Ahmad/Teaching/Lectures_on_Fuzzy_Logic/2008_2009_4BA13_Model_Solutions.pdf)
+-   [2008](https://www.scss.tcd.ie/Khurshid.Ahmad/Teaching/Lectures_on_Fuzzy_Logic/Archive_2008/2007_2008_4BA13_Model_Solutions.pdf)
 
 ## Questions by Topic
 

@@ -12,17 +12,13 @@ CS4012
 
 ## Questions by Year
 
-* [2017]()
-* [2016]()
-* [2015]()
-* [2014]()
-* [2013]()
-* [2012]()
-* [2011]()
-* [2010]()
-* [2009]()
-* [2008]()
-* [2007]()
+-   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS4012-2.PDF)
+-   [2015](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/Annuals%20Dec%2014/CS4012-1.pdf)
+-   [2014](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2014/CS/CS40121.pdf)
+-   [2013](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2013/CS/XCS40121.pdf)
+-   [2012](https://www.tcd.ie/Local/Exam_Papers/2012/XC/XCS40121.pdf)
+-   [2011](https://www.tcd.ie/Local/Exam_Papers/2011/XC/XCS40111.pdf)
+-   [2010](https://www.tcd.ie/Local/Exam_Papers/2010/XC/XCS40111.pdf)
 
 ## Questions by Topic
 <table class="examQuestions" width="700px">

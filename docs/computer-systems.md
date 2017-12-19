@@ -12,17 +12,14 @@ XSCH3087
 
 ## Questions by Year
 
-* [2017]()
-* [2016]()
-* [2015]()
-* [2014]()
-* [2013]()
-* [2012]()
-* [2011]()
-* [2010]()
-* [2009]()
-* [2008]()
-* [2007]()
+-   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/schol2017/X-SCH3087.PDF)
+-   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/schol2016/30/XSCH3087.PDF)
+-   [2015](https://www.tcd.ie/academicregistry/exams/assets/local/schol2015/30/3087.pdf)
+-   [2014](https://www.tcd.ie/academicregistry/exams/assets/local/schol2014/30/3087.pdf)
+-   [2013](https://www.tcd.ie/academicregistry/exams/assets/local/schol2013/30/3087.pdf)
+-   [2012](https://www.tcd.ie/Local/Exam_Papers/2012/30/3087.pdf)
+-   [2011](https://www.tcd.ie/Local/Exam_Papers/2011/30/3087.pdf)
+-   [2010](https://www.tcd.ie/Local/Exam_Papers/2010/30/3087.pdf)
 
 ## Questions by Topic
 <table class="examQuestions" width="700px">

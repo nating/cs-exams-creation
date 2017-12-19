@@ -12,16 +12,6 @@ CS4LL5
 
 ## Questions by Year
 
-* [2017]()
-* [2016]()
-* [2015]()
-* [2014]()
-* [2013]()
-* [2012]()
-* [2011]()
-* [2010]()
-* [2009]()
-* [2008]()
-* [2007]()
-
-## Questions by Topic
+-   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS4LL5-1.PDF)
+-   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS4LL5-1.PDF)
+-   [2015](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/Annuals%20Dec%2014/CS4LL51-1.pdf)
