@@ -1,6 +1,6 @@
 ---
 id: computer-systems
-title: Schols: Computer Systems
+title: Computer Systems
 sidebar_label: Computer Systems
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: maths
-title: Schols: Maths
+title: Maths
 sidebar_label: Maths
 ---
 

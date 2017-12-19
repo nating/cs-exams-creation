@@ -1,6 +1,6 @@
 ---
 id: programming
-title: Schols: Programming
+title: Programming
 sidebar_label: Programming
 ---
 
