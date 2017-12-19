@@ -28,7 +28,7 @@ class Footer extends React.Component {
                 this.props.config.baseUrl +
                 'docs/' +
                 this.props.language +
-                '/doc1.html'
+                '/digital-logic-design.html'
               }>
               First Year
             </a>
@@ -37,7 +37,7 @@ class Footer extends React.Component {
                 this.props.config.baseUrl +
                 'docs/' +
                 this.props.language +
-                '/doc2.html'
+                '/computer-systems.html'
               }>
               Schols
             </a>
@@ -46,7 +46,7 @@ class Footer extends React.Component {
                 this.props.config.baseUrl +
                 'docs/' +
                 this.props.language +
-                '/doc3.html'
+                '/algorithms-and-data-structures.html'
               }>
               Second Year
             </a>
@@ -55,7 +55,7 @@ class Footer extends React.Component {
                 this.props.config.baseUrl +
                 'docs/' +
                 this.props.language +
-                '/doc3.html'
+                '/advanced-telecommunications.html'
               }>
               Third Year
             </a>
@@ -64,7 +64,7 @@ class Footer extends React.Component {
                 this.props.config.baseUrl +
                 'docs/' +
                 this.props.language +
-                '/doc3.html'
+                '/human-factors.html'
               }>
               Fourth Year
             </a>

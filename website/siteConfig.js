@@ -40,9 +40,11 @@ const siteConfig = {
   baseUrl: '/cs-exams/' /* base url for your project */,
   projectName: 'cs-exams',
   headerLinks: [
-    {doc: 'digital-logic-design', label: 'Modules'},
-    {page: 'help', label: 'Contributing'},
-    {href: 'https://github.com/nating/cs-exams', label: 'GitHub'},
+    {doc: 'digital-logic-design', label: 'First Year'},
+    {doc: 'computer-systems', label: 'Schols'},
+    {doc: 'algorithms-and-data-structures', label: 'Second Year'},
+    {doc: 'advanced-telecommunications', label: 'Third Year'},
+    {doc: 'human-factors', label: 'Fourth Year' },
   ],
   contributors,
   /* path to images for header/footer */

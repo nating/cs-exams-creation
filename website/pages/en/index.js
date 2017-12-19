@@ -74,8 +74,8 @@ class HomeSplash extends React.Component {
                     <Button
                       href={
                         siteConfig.baseUrl +
-                        'docs-other/' +
-                        'doc4.html'
+                        'docs/' +
+                        'advanced-telecommunications.html'
                       }>
                       Third Year
                     </Button>
