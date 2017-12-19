@@ -37,7 +37,7 @@ CS4001
 
 ## Questions by Topic
 
-<table class="examQuestions">
+<table class="examQuestions" width="700px">
     <tbody><tr>
         <td><strong>Topic</strong></td>
         <td><strong>Questions</strong></td>

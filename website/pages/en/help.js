@@ -15,31 +15,23 @@ const siteConfig = require(process.cwd() + '/siteConfig.js');
 
 class Help extends React.Component {
   render() {
-    const supportLinks = [
-      {
-        content:
-          'Learn more using the [documentation on this site.](/test-site/docs/en/doc1.html)',
-        title: 'Browse Docs',
-      },
-      {
-        content: 'Ask questions about the documentation and project',
-        title: 'Join the community',
-      },
-      {
-        content: "Find out what's new with this project",
-        title: 'Stay up to date',
-      },
-    ];
-
     return (
       <div className="docMainWrapper wrapper">
         <Container className="mainContainer documentContainer postContainer">
           <div className="post">
             <header className="postHeader">
-              <h2>Need help?</h2>
+              <h2>Want to add to the website?</h2>
             </header>
-            <p>This project is maintained by a dedicated group of people.</p>
-            <GridBlock contents={supportLinks} layout="threeColumn" />
+            <p>This project is for students and can only "maintained" if students contribute to it. So every contribution is gladly welcomed!</p>
+            <p/>
+            <p/>
+            <p>To changes to a page, just make a click on the "edit" button in the top right of the page.</p>
+            <p/>
+            <p/>
+            <p>To make significant changes, just make a <a href="https://github.com/nating/cs-exams/pull/new/master">pull request</a> on <a href="https://github.com/nating/cs-exams/">the repository</a>.</p>
+            <p/>
+            <p/>
+            <p>The site is made using <a href="https://docusaurus.io">Docusaurus</a> so that the pages are generated from Markdown files to make it easy for anyone to edit 😁</p>
           </div>
         </Container>
       </div>

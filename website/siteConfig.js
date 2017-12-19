@@ -36,11 +36,11 @@ const contributors = [
 const siteConfig = {
   title: 'CS Exams' /* title for your website */,
   tagline: 'A website for Computer Science Students in Trinity College Dublin',
-  url: 'https://facebook.github.io' /* your website url */,
-  baseUrl: '/test-site/' /* base url for your project */,
-  projectName: 'test-site',
+  url: 'https://nating.github.io' /* your website url */,
+  baseUrl: '/cs-exams/' /* base url for your project */,
+  projectName: 'cs-exams',
   headerLinks: [
-    {doc: 'electrotechnology', label: 'Modules'},
+    {doc: 'digital-logic-design', label: 'Modules'},
     {page: 'help', label: 'Contributing'},
     {href: 'https://github.com/nating/cs-exams', label: 'GitHub'},
   ],
@@ -59,8 +59,9 @@ const siteConfig = {
     'Copyright © ' +
     new Date().getFullYear() +
     'Geoffrey Natin',
-  // organizationName: 'deltice', // or set an env variable ORGANIZATION_NAME
-  // projectName: 'test-site', // or set an env variable PROJECT_NAME
+  organizationName: 'nating', // or set an env variable ORGANIZATION_NAME
+  projectName: 'cs-exams', // or set an env variable PROJECT_NAME
+  GIT_USER: 'nating',
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
     theme: 'default',
@@ -68,6 +69,7 @@ const siteConfig = {
   scripts: ['https://buttons.github.io/buttons.js'],
   // You may provide arbitrary config keys to be used as needed by your template.
   repoUrl: 'https://github.com/nating/cs-exams',
+  editUrl: 'https://github.com/nating/cs-exams/edit/master/docs/',
 };
 
 module.exports = siteConfig;

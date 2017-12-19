@@ -51,8 +51,7 @@ class HomeSplash extends React.Component {
                       href={
                         siteConfig.baseUrl +
                         'docs/' +
-                        this.props.language +
-                        '/doc1.html'
+                        'digital-logic-design.html'
                       }>
                       First Year
                     </Button>
@@ -60,8 +59,7 @@ class HomeSplash extends React.Component {
                       href={
                         siteConfig.baseUrl +
                         'docs/' +
-                        this.props.language +
-                        '/doc1.html'
+                        'computer-systems.html'
                       }>
                       Schols
                     </Button>
@@ -69,17 +67,15 @@ class HomeSplash extends React.Component {
                       href={
                         siteConfig.baseUrl +
                         'docs/' +
-                        this.props.language +
-                        '/doc1.html'
+                        'algorithms-and-data-structures.html'
                       }>
                       Second Year
                     </Button>
                     <Button
                       href={
                         siteConfig.baseUrl +
-                        'docs/' +
-                        this.props.language +
-                        '/doc1.html'
+                        'docs-other/' +
+                        'doc4.html'
                       }>
                       Third Year
                     </Button>
@@ -87,8 +83,7 @@ class HomeSplash extends React.Component {
                       href={
                         siteConfig.baseUrl +
                         'docs/' +
-                        this.props.language +
-                        '/doc1.html'
+                        'human-factors.html'
                       }>
                       Fourth Year
                     </Button>
