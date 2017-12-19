@@ -12,17 +12,9 @@ ST3009
 
 ## Questions by Year
 
-* [2017]()
-* [2016]()
-* [2015]()
-* [2014]()
-* [2013]()
-* [2012]()
-* [2011]()
-* [2010]()
-* [2009]()
-* [2008]()
-* [2007]()
+-   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/ST/ST3009-1.PDF)
+-   [2016](https://www.scss.tcd.ie/Doug.Leith/ST3009/finalexam2015.pdf)
+-   [2015](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/ST/ST3009-1.PDF)
 
 ## Questions by Topic
 <table class="examQuestions" width="700px">

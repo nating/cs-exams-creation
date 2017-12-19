@@ -12,17 +12,14 @@ CS3041
 
 ## Questions by Year
 
-* [2017]()
-* [2016]()
-* [2015]()
-* [2014]()
-* [2013]()
-* [2012]()
-* [2011]()
-* [2010]()
-* [2009]()
-* [2008]()
-* [2007]()
+-   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS3041-1.PDF)
+-   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS3041-1.PDF)
+-   [2015](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/Annuals%20Dec%2014/CS3041-1.pdf)
+-   [2014](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2014/CS/CS30411.pdf)
+-   [2013](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2013/CS/CS30411.pdf)
+-   [2012](https://www.tcd.ie/Local/Exam_Papers/2012/XC/XCS30411.pdf)
+-   [2011](https://www.tcd.ie/Local/Exam_Papers/2011/XC/XCS30411.pdf)
+-   [2010](https://www.tcd.ie/Local/Exam_Papers/2010/XC/XCS30411.pdf)
 
 ## Questions by Topic
 <table class="examQuestions" width="700px">
